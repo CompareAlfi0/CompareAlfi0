@@ -1,5 +1,5 @@
-👋 Hi, I’m @CompareAlfi0 
-...Trying to understand a complex world.
+👋 Hi, I’m @CompareAlfi0  
+...trying to understand a complex world.
 
 <!---
 CompareAlfi0/CompareAlfi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
