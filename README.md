@@ -1,4 +1,4 @@
-👋 Hi, I’m @CompareAlfi0  
+👋 Hi, I’m @Snemetic
 ...trying to understand a complex world.
 
 <!---
